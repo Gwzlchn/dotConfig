@@ -1,0 +1,8 @@
+{
+  "laguageserver": {
+    "veridian": {
+        "command": "veridian",
+        "filetypes": ["systemverilog", "verilog"] 
+    }
+  }
+}
