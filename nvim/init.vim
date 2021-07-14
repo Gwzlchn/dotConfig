@@ -1,3 +1,4 @@
+let mapleader = ";"
 set nocompatible
 
 filetype off
@@ -30,7 +31,7 @@ filetype off
 
 
 " General Settings ( 基础设置 ) {
-  " 自动检测文件类型, 基于文件类型的插件生效, 智能缩进
+" 自动检测文件类型, 基于文件类型的插件生效, 智能缩进
   filetype plugin indent on
 
   " 保证语法高亮
